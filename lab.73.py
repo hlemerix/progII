@@ -19,3 +19,4 @@ if __name__ == "__main__":
     if s.strip():
         print(f"Únicas: {contar_palabras_unicas(s)}\nLarga: {palabra_mas_larga(s)}")
         frecuencia_caracteres(s)
+        
