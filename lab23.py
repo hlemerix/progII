@@ -1,7 +1,0 @@
-print("Esto funciona")
-print('Esto también funciona')
-print(3)
-print(354)
-print(3 + 3)
-print(2 * 3)
-print("somos",35,"compañeros")
